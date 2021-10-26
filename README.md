@@ -1,4 +1,10 @@
-Q and A
+## Q and A
+
+# How do I get this?
+
+- download git from here: https://git-scm.com/download/win 
+- open command prompt where you want the server folder to be installed. Paste this in and press enter: https://github.com/BradleyHarper/minecraft-1.17.1.git
+- click the start.bat after port forwarding and changing the IP in server.properties and wala, you have a working minecraft server.
 
 
 # After running the start.bat script (either clicking on it or typing in "start start.bat" in the terminal). A message shows up stating that 'java' is not defined
